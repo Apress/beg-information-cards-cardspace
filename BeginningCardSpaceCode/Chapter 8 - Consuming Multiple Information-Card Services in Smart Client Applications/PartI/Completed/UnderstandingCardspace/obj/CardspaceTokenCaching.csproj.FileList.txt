@@ -1,0 +1,5 @@
+bin\Debug\CardspaceTokenCaching.dll
+bin\Debug\CardspaceTokenCaching.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CardspaceTokenCaching.dll
+obj\Debug\CardspaceTokenCaching.pdb

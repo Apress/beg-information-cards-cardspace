@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ic>
+<head>
+    <title>Browser Support</title>
+    
+         <object type="application/x-informationcard" name="xmlToken" id="informationCard">
+            <param name="tokenType" value="urn:oasis:names:tc:SAML:1.0:assertion" />
+            <param name="issuer" value="http://schemas.xmlsoap.org/ws/2005/05/identity/issuer/self" />
+            <param name="requiredClaims" value="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname http://schemas.xmlsoap.org/ws/2005/05/identity/claims/locality http://schemas.xmlsoap.org/ws/2005/05/identity/claims/country http://schemas.xmlsoap.org/ws/2005/05/identity/claims/privatepersonalidentifier" />
+        </object>
+    <script type="text/javascript" language="javascript" src="DetectSupport.js"></script>
+
+</head>
+<body>
+  <div id="CardSpaceSupportTest">
+  
+  </div> 
+   <script type="text/javascript">                     
+            
+            if(IsCardSpaceSupported())
+            {
+                supported = false;
+                populateDiv("CardSpaceSupportTest", "Cardspace is not supported in this browser");
+           }
+            else
+            {
+                 supported = true;
+                 populateDiv("CardSpaceSupportTest", "Cardspace is supported in this browser"); 
+            }
+            
+           
+               
+        </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+.\bin\Debug\SimpleWorkflow.exe
+.\bin\Debug\SimpleWorkflow.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleWorkflow.exe
+obj\Debug\SimpleWorkflow.pdb

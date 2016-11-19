@@ -1,0 +1,16 @@
+bin\Debug\RSSClient.exe
+bin\Debug\RSSClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RSSClient.Properties.Resources.resources
+obj\Debug\RSSClient.csproj.GenerateResource.Cache
+obj\Debug\RSSClient.exe
+obj\Debug\RSSClient.pdb
+bin\Debug\RSS.dll
+bin\Debug\ServiceContracts.dll
+bin\Debug\Interop.Microsoft.Feeds.Interop.dll
+bin\Debug\RSS.pdb
+bin\Debug\ServiceContracts.pdb
+bin\Debug\RSSClient.exe.config
+bin\Debug\SDN.DataContracts.Community.dll
+bin\Debug\SDN.DataContracts.Community.pdb
+obj\Debug\RSSClient.frmMain.resources

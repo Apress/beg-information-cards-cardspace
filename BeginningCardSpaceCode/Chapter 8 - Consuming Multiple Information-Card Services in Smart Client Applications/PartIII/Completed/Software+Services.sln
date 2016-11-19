@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost", "WCFServiceHost\WCFServiceHost.csproj", "{82D4EC6D-1259-466C-86D4-E53E49F20FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContracts", "DataContracts\DataContracts.csproj", "{A6D7D058-A72B-46C1-AB30-6564BE3789E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{83ED635F-D693-4423-AA2E-E2A06EF2962B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFClient", "WCFClient\WCFClient.csproj", "{88CF1C30-9B95-40BC-BA95-0DAF219F3D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardspaceTokenCaching", "TokenCaching\CardspaceTokenCaching.csproj", "{107FC76E-DF97-4037-8A7D-F680C0E51D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost2", "WCFServiceHost2\WCFServiceHost2.csproj", "{67C323B2-B70F-414F-9303-F0C627B339D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services2", "Services2\Services2.csproj", "{494FF4B0-06A8-4B35-87A7-1E0FCCCFF843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{82FE2330-DA7B-4ECA-8968-C71030F4C00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D4EC6D-1259-466C-86D4-E53E49F20FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D4EC6D-1259-466C-86D4-E53E49F20FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D4EC6D-1259-466C-86D4-E53E49F20FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D4EC6D-1259-466C-86D4-E53E49F20FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D7D058-A72B-46C1-AB30-6564BE3789E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D7D058-A72B-46C1-AB30-6564BE3789E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D7D058-A72B-46C1-AB30-6564BE3789E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D7D058-A72B-46C1-AB30-6564BE3789E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83ED635F-D693-4423-AA2E-E2A06EF2962B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ED635F-D693-4423-AA2E-E2A06EF2962B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ED635F-D693-4423-AA2E-E2A06EF2962B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ED635F-D693-4423-AA2E-E2A06EF2962B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CF1C30-9B95-40BC-BA95-0DAF219F3D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CF1C30-9B95-40BC-BA95-0DAF219F3D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CF1C30-9B95-40BC-BA95-0DAF219F3D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CF1C30-9B95-40BC-BA95-0DAF219F3D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107FC76E-DF97-4037-8A7D-F680C0E51D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107FC76E-DF97-4037-8A7D-F680C0E51D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107FC76E-DF97-4037-8A7D-F680C0E51D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107FC76E-DF97-4037-8A7D-F680C0E51D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C323B2-B70F-414F-9303-F0C627B339D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C323B2-B70F-414F-9303-F0C627B339D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C323B2-B70F-414F-9303-F0C627B339D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C323B2-B70F-414F-9303-F0C627B339D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494FF4B0-06A8-4B35-87A7-1E0FCCCFF843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494FF4B0-06A8-4B35-87A7-1E0FCCCFF843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494FF4B0-06A8-4B35-87A7-1E0FCCCFF843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494FF4B0-06A8-4B35-87A7-1E0FCCCFF843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FE2330-DA7B-4ECA-8968-C71030F4C00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FE2330-DA7B-4ECA-8968-C71030F4C00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FE2330-DA7B-4ECA-8968-C71030F4C00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FE2330-DA7B-4ECA-8968-C71030F4C00B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

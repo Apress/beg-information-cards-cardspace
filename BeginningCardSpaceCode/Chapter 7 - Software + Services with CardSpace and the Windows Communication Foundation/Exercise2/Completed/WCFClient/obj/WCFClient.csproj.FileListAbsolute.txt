@@ -1,0 +1,9 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\bin\Debug\WindowsApplication2.exe.config
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\obj\Debug\WindowsApplication2.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\obj\Debug\WindowsApplication2.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\bin\Debug\WindowsApplication2.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\bin\Debug\WindowsApplication2.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\obj\Debug\WindowsApplication2.AlertCenter.resources
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\obj\Debug\WindowsApplication2.Properties.Resources.resources
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache

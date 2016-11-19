@@ -1,0 +1,10 @@
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartI\ManagedCardTemplateCreator\ManagedInformationCard\bin\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartI\ManagedCardTemplateCreator\ManagedInformationCard\bin\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartI\ManagedCardTemplateCreator\ManagedInformationCard\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartI\ManagedCardTemplateCreator\ManagedInformationCard\obj\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartI\ManagedCardTemplateCreator\ManagedInformationCard\obj\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartI\ManagedCardTemplateCreator\ManagedInformationCard\bin\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartI\ManagedCardTemplateCreator\ManagedInformationCard\bin\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartI\ManagedCardTemplateCreator\ManagedInformationCard\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartI\ManagedCardTemplateCreator\ManagedInformationCard\obj\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartI\ManagedCardTemplateCreator\ManagedInformationCard\obj\Debug\ManagedInformationCard.pdb

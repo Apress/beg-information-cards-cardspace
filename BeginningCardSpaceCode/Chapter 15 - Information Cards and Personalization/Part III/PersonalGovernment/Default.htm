@@ -1,0 +1,50 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ic >
+<head runat="server">
+    <title>PersonalGovernment</title>
+</head>
+<body style="font-size: 12pt">
+    <form id="form1" method=post action="./PersonalizedHome.aspx" >
+<ic:informationcard 
+     name='xmlToken'
+     style='behavior: url(#default#informationCard)'
+     issuer='http://schemas.xmlsoap.org/ws/2005/05/identity/issuer/self'
+     tokenType='urn:oasis:names:tc:SAML:1.0:assertion'>
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/locality' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/country' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/postalcode' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/stateorprovince' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/mobilephone' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/privatepersonalidentifier' optional='false' />
+    
+      </ic:informationcard><div>
+        <table style="width: 409px">
+            <tr>
+                <td rowspan="3" style="width: 236px">
+                    <img src="./Images/Finder.png" /></td>
+                <td rowspan="3">
+                </td>
+                <td rowspan="3" style="width: 188px; text-align: left">
+                    <span style="font-family: Tahoma"><strong>Login<br />
+                        <hr />
+                    </strong></span>
+                    <img src="Images/login.png" onclick="submit();" /><br />
+                    <hr />
+                </td>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+        </table>
+    
+    </div>
+    </form>
+</body>
+</html>

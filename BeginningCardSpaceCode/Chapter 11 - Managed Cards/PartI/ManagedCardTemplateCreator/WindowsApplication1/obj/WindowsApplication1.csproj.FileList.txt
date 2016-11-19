@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UnderstandingCardspace.Properties.Resources.resources
+obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+bin\Debug\WindowsApplication1.exe
+bin\Debug\WindowsApplication1.pdb
+obj\Debug\WindowsApplication1.exe
+obj\Debug\WindowsApplication1.pdb
+obj\Debug\UnderstandingCardspace.AddClaim.resources
+obj\Debug\UnderstandingCardspace.AddTokenService.resources
+obj\Debug\UnderstandingCardspace.DefineCardTemplate.resources

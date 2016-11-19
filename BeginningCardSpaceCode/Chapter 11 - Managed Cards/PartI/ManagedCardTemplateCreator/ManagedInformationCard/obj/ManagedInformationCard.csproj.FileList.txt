@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ManagedInformationCard.dll
+bin\Debug\ManagedInformationCard.pdb
+obj\Debug\ManagedInformationCard.dll
+obj\Debug\ManagedInformationCard.pdb

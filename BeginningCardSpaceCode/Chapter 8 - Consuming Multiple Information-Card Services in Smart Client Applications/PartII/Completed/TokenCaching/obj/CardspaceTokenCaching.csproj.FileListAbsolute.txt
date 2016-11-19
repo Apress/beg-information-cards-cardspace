@@ -1,0 +1,5 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\TokenCaching\bin\Debug\CardspaceTokenCaching.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\TokenCaching\bin\Debug\CardspaceTokenCaching.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\TokenCaching\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\TokenCaching\obj\Debug\CardspaceTokenCaching.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\TokenCaching\obj\Debug\CardspaceTokenCaching.pdb

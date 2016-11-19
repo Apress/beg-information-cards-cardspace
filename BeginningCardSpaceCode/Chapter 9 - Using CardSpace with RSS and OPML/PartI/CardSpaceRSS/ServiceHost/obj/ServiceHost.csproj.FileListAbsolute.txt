@@ -1,0 +1,39 @@
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.exe
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\OPML.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RSS.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RssService.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceContracts.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\Interop.Microsoft.Feeds.Interop.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceContracts.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RssService.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ServiceHost.exe
+C:\UnderstandingCardspace\Chapter Text\Chapter 10\Chapter7\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\OPML.dll
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RSS.dll
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RssService.dll
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceContracts.dll
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\Interop.Microsoft.Feeds.Interop.dll
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RssService.pdb
+C:\UnderstandingCardspace\Book Code_UC\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\OPML.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RSS.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RssService.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\Interop.Microsoft.Feeds.Interop.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\ServiceContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\bin\Debug\RssService.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 9 - Using CardSpace with RSS and OPML\PartI\CardSpaceRSS\ServiceHost\obj\Debug\ResolveAssemblyReference.cache

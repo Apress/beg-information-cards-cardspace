@@ -1,0 +1,9 @@
+bin\Debug\DataContracts.dll
+bin\Debug\ServiceContracts.dll
+bin\Debug\DataContracts.pdb
+bin\Debug\ServiceContracts.pdb
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Services2.dll
+bin\Debug\Services2.pdb
+obj\Debug\Services2.dll
+obj\Debug\Services2.pdb

@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ServiceHost.exe
+bin\Debug\ServiceHost.pdb
+bin\Debug\RSS.dll
+bin\Debug\RssService.dll
+bin\Debug\SDN.DataContracts.Community.dll
+bin\Debug\ServiceContracts.dll
+bin\Debug\Interop.Microsoft.Feeds.Interop.dll
+bin\Debug\SDN.DataContracts.Community.pdb
+bin\Debug\RSS.pdb
+bin\Debug\ServiceContracts.pdb
+bin\Debug\RssService.pdb
+obj\Debug\ServiceHost.exe
+obj\Debug\ServiceHost.pdb
+bin\Debug\ServiceHost.exe.config

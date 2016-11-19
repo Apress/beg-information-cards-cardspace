@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+.\bin\Debug\ConsoleCardIssuanceWorkflow.exe
+.\bin\Debug\ConsoleCardIssuanceWorkflow.pdb
+.\bin\Debug\InformationCardActivities.dll
+.\bin\Debug\ManagedInformationCard.dll
+.\bin\Debug\InformationCardActivities.pdb
+.\bin\Debug\ManagedInformationCard.pdb
+obj\Debug\ConsoleCardIssuanceWorkflow.exe
+obj\Debug\ConsoleCardIssuanceWorkflow.pdb

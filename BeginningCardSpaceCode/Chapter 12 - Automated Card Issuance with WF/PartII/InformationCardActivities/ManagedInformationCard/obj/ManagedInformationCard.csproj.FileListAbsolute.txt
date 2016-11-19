@@ -1,0 +1,10 @@
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ManagedInformationCard\bin\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ManagedInformationCard\bin\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ManagedInformationCard\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ManagedInformationCard\obj\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ManagedInformationCard\obj\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ManagedInformationCard\bin\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ManagedInformationCard\bin\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ManagedInformationCard\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ManagedInformationCard\obj\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ManagedInformationCard\obj\Debug\ManagedInformationCard.pdb

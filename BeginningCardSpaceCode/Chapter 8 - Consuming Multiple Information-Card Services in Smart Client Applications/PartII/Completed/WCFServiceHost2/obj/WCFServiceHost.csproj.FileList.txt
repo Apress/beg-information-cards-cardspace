@@ -1,0 +1,12 @@
+bin\Debug\WCFServiceHost.exe.config
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\WCFServiceHost.exe
+bin\Debug\WCFServiceHost.pdb
+bin\Debug\Services.dll
+bin\Debug\Services.pdb
+obj\Debug\WCFServiceHost.exe
+obj\Debug\WCFServiceHost.pdb
+bin\Debug\ServiceContracts.dll
+bin\Debug\DataContracts.dll
+bin\Debug\DataContracts.pdb
+bin\Debug\ServiceContracts.pdb

@@ -1,0 +1,20 @@
+  <html xmlns="http://www.w3.org/1999/xhtml" xmlns:ic>
+   <head><title>Binary Behavior</title>
+   </head>
+   <body>
+   <form method="post" action="Placeholder.aspx"> 
+    <ic:informationcard 
+     name='xmlToken'
+     style='behavior: url(#default#informationCard)'
+     issuer='http://schemas.xmlsoap.org/ws/2005/05/identity/issuer/self'
+     tokenType='urn:oasis:names:tc:SAML:1.0:assertion'>
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/locality' optional='false' />
+    <ic:add claimType='http://schemas.xmlsoap.org/ws/2005/05/identity/claims/country' optional='false' />
+      </ic:informationcard>
+  
+  <input type="submit" name="CardspaceSignIn" value = "Login using CardSpace" id="InfocardSignin" />
+  </form>
+  </body> 
+  </html>

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "CardSpaceRSS\Services.csproj", "{6E3A54F9-4C03-4DC9-92A1-BEB112CB68CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSClient", "RSSClient\RSSClient.csproj", "{7CDAD824-C33C-40D2-A84E-50473D4222FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{C9811007-E60B-4FC6-94C9-E8AFB8E97935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{3F7DD401-3B87-4BE4-BD58-41F4530CBE67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3A54F9-4C03-4DC9-92A1-BEB112CB68CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3A54F9-4C03-4DC9-92A1-BEB112CB68CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3A54F9-4C03-4DC9-92A1-BEB112CB68CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3A54F9-4C03-4DC9-92A1-BEB112CB68CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDAD824-C33C-40D2-A84E-50473D4222FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDAD824-C33C-40D2-A84E-50473D4222FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDAD824-C33C-40D2-A84E-50473D4222FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDAD824-C33C-40D2-A84E-50473D4222FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9811007-E60B-4FC6-94C9-E8AFB8E97935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9811007-E60B-4FC6-94C9-E8AFB8E97935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9811007-E60B-4FC6-94C9-E8AFB8E97935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9811007-E60B-4FC6-94C9-E8AFB8E97935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7DD401-3B87-4BE4-BD58-41F4530CBE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7DD401-3B87-4BE4-BD58-41F4530CBE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7DD401-3B87-4BE4-BD58-41F4530CBE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7DD401-3B87-4BE4-BD58-41F4530CBE67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

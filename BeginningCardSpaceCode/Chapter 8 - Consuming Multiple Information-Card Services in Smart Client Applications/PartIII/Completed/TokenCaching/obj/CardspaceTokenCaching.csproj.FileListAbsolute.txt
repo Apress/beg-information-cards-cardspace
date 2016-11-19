@@ -1,0 +1,10 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\UnderstandingCardspace\bin\Debug\CardspaceTokenCaching.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\UnderstandingCardspace\bin\Debug\CardspaceTokenCaching.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\UnderstandingCardspace\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\UnderstandingCardspace\obj\Debug\CardspaceTokenCaching.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\UnderstandingCardspace\obj\Debug\CardspaceTokenCaching.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\TokenCaching\obj\Debug\CardspaceTokenCaching.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\TokenCaching\bin\Debug\CardspaceTokenCaching.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\TokenCaching\bin\Debug\CardspaceTokenCaching.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\TokenCaching\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\TokenCaching\obj\Debug\CardspaceTokenCaching.pdb

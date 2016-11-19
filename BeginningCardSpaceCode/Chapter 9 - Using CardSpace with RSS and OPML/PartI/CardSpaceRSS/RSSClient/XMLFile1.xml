@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <channel>
+    <copyright>Copyright Microsoft Corporation 2004</copyright>
+    <description>Microsoft downloads center</description>
+    <link>http://www.microsoft.com/downloads</link>
+    <title>Top 10 Downloads</title>
+    <item>
+      <title>.NET Framework Version 2.0 Redistributable Package (x86)</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=0856EACB-4362-4B0D-8EDD-AAB15C5E04F5&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>.NET Framework Version 1.1 Redistributable Package</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=262D25E3-F589-4842-8157-034D1E7CF3A3&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>Microsoft .NET Framework 3.0 Redistributable Package</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=10CC340B-F857-4A14-83F5-25634C3BF043&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>.NET Framework 1.1 Service Pack 1</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=A8F5654F-088E-40B2-BBDB-A83353618B38&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>DirectX SDK - (October 2006)</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=D625324C-59B4-4951-849E-640B508DC442&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>XML Notepad 2007</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=72D6AA49-787D-4118-BA5F-4F30FE913628&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>Platform Software Development Kit Redistributable: Microsoft Layer for Unicode on Windows 95, 98, and Me Systems, 1.1.3790.0</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=73BA7BD7-ED06-4F0D-80A4-2A7EEAEE17E2&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>Windows Media Encoder 9 Series</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=5691BA02-E496-465A-BBA9-B2F1182CDF24&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>DirectX April 2006 Redistributable for Software Developers</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=FB73D860-5AF1-45E5-BAC0-9BC7A5254203&amp;displaylang=en    </link>
+    </item>
+    <item>
+      <title>Microsoft XNA Game Studio Express 1.0</title>
+      <link>http://www.microsoft.com/downloads/details.aspx?FamilyID=A73A7E71-FF41-432D-A0EB-043E904A1905&amp;displaylang=en    </link>
+    </item>
+  </channel>
+</rss>
+

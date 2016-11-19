@@ -1,0 +1,22 @@
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\UnderstandingCardspace.AddClaim.resources
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\UnderstandingCardspace.AddTokenService.resources
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\UnderstandingCardspace.DefineCardTemplate.resources
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\UnderstandingCardspace.Properties.Resources.resources
+C:\UnderstandingCardspace\Chapter Text\Chapter 12\Chapter12\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\UnderstandingCardspace\Book Code\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\UnderstandingCardspace\Book Code\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\BeginningCardSpace.AddClaim.resources
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\BeginningCardSpace.AddTokenService.resources
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\BeginningCardSpace.DefineCardTemplate.resources
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\UnderstandingCardspace.Properties.Resources.resources
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 11 - Managed Cards\PartII\ManagedCardCreator\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache

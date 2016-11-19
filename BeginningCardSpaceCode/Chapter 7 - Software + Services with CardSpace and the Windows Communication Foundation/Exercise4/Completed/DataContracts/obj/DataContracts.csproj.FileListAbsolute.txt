@@ -1,0 +1,5 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise4\Completed\DataContracts\bin\Debug\DataContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise4\Completed\DataContracts\bin\Debug\DataContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise4\Completed\DataContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise4\Completed\DataContracts\obj\Debug\DataContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise4\Completed\DataContracts\obj\Debug\DataContracts.pdb

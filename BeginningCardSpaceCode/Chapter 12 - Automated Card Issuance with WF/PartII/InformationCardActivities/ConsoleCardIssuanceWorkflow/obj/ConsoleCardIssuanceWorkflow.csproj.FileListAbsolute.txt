@@ -1,0 +1,18 @@
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\obj\Debug\ConsoleCardIssuanceWorkflow.exe
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\obj\Debug\ConsoleCardIssuanceWorkflow.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ConsoleCardIssuanceWorkflow.exe
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ConsoleCardIssuanceWorkflow.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\InformationCardActivities.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\InformationCardActivities.pdb
+C:\UnderstandingCardspace\Chapter Text\Chapter 13\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ConsoleCardIssuanceWorkflow.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ConsoleCardIssuanceWorkflow.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\InformationCardActivities.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ManagedInformationCard.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\InformationCardActivities.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\bin\Debug\ManagedInformationCard.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\obj\Debug\ConsoleCardIssuanceWorkflow.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 12 - Automated Card Issuance with WF\PartII\InformationCardActivities\ConsoleCardIssuanceWorkflow\obj\Debug\ConsoleCardIssuanceWorkflow.pdb

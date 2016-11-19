@@ -1,0 +1,5 @@
+bin\Debug\DataContracts.dll
+bin\Debug\DataContracts.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataContracts.dll
+obj\Debug\DataContracts.pdb

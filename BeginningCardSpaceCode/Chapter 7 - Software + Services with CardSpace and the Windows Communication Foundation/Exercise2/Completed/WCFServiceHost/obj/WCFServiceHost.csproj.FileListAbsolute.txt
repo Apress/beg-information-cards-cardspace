@@ -1,0 +1,12 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\obj\Debug\WCFServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\obj\Debug\WCFServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\ServiceContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\Services.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\DataContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\DataContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\Services.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\bin\Debug\ServiceContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 7 - Software + Services with CardSpace and the Windows Communication Foundation\Exercise2\Completed\WCFServiceHost\obj\Debug\ResolveAssemblyReference.cache

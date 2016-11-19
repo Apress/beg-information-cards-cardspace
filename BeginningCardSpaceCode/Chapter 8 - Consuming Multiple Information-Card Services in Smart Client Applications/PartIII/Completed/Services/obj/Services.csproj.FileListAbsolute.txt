@@ -1,0 +1,9 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\bin\Debug\Services.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\bin\Debug\Services.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\bin\Debug\DataContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\bin\Debug\ServiceContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\bin\Debug\DataContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\bin\Debug\ServiceContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\obj\Debug\ResolveAssemblyReference.cache
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\obj\Debug\Services.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartIII\Completed\Services\obj\Debug\Services.pdb

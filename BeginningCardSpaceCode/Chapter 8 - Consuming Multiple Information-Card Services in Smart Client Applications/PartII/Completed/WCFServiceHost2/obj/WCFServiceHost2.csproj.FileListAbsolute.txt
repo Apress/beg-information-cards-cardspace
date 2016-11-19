@@ -1,0 +1,12 @@
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\WCFServiceHost.exe.config
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\obj\Debug\WCFServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\obj\Debug\WCFServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\WCFServiceHost.exe
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\WCFServiceHost.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\ServiceContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\Services.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\DataContracts.dll
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\DataContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\Services.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\bin\Debug\ServiceContracts.pdb
+C:\UnderstandingCardspace\Book Code_UC - Copy\Chapter 8 - Consuming Multiple Information-Card Services in Smart Client Applications\PartII\Completed\WCFServiceHost2\obj\Debug\ResolveAssemblyReference.cache
